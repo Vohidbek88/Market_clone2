@@ -1,0 +1,22 @@
+.bulid_users::-webkit-scrollbar{
+    display: none;
+}
+.bulid_users{
+    width: 100%;
+    overflow: hidden;
+}
+.kount{
+    position: relative;
+    cursor: pointer;
+}
+.count{
+    position: absolute;
+    top: -3px;
+    left: 19px;
+    padding: 1px 5px;
+    background-color: red;
+    z-index: 11;
+    border-radius: 50%;
+    color: white;
+    font-size: 18px;
+}

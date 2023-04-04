@@ -1,9 +1,11 @@
 import React from 'react'
 
-export default function Add() {
+const Add = () => {
   return (
     <div>
       
     </div>
   )
 }
+
+export default Add
